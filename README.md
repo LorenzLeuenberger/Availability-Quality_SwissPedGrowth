@@ -1,4 +1,4 @@
-# Availability and Quality - SwissPedGrowth
+# Availability and Quality in SwissPedGrowth
 This GitHub repository shares the analysis code used for the manuscript "Availability and Quality of Anthropometric Data in Swiss Children’s Hospitals: The SwissPedGrowth Project".
 
 # Analysis scripts
